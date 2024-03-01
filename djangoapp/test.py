@@ -7,5 +7,8 @@
 a = 1
 b = 2
 c = 4
+react = "a"
+var1 = a+b+c
 
-print(a+b+c)
+print(a+b+c, react)
+print(var1, react)
