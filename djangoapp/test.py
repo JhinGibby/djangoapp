@@ -6,5 +6,6 @@
 
 a = 1
 b = 2
+c = 4
 
-print(1+2)
+print(a+b+c)
